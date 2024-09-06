@@ -25,12 +25,13 @@ function App() {
 
   return <center>
     <h1 className={styles.head}>CALCULATOR</h1>
+    <h5>note:- click button 'c' after evaluate the answer</h5>
      <div className={styles.calculator}>
  <Input inputValue={calVal}></Input>
  <Botton buttonClick={buttonClick}></Botton>
  
   </div>
-  <h2>note:- click button 'c' after evaluate the answer</h2>
+ 
   </center>
    
   
