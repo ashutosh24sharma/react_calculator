@@ -30,6 +30,7 @@ function App() {
  <Botton buttonClick={buttonClick}></Botton>
  
   </div>
+  <h2>note:- click button 'c' after evaluate the answer</h2>
   </center>
    
   
