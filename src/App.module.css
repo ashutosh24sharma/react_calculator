@@ -1,0 +1,16 @@
+.calculator{
+  border: 1px solid rgba(0, 0, 0, 0.551);
+  border-radius: 25px;
+  width: 400px;
+  height: auto;
+  background-color: rgba(236, 228, 217, 0.934);
+}
+.head{
+ margin-bottom: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  color:white;
+  background-color: rgba(0, 0, 0, 0.767);
+}
+
